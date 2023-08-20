@@ -1,16 +1,52 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**MohamedAljath-7ds/MohamedAljath-7ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👨‍🎓 I'm a Computer Science Engineering student passionate about coding and learning new technologies.
 
-Here are some ideas to get you started:
+## Current Focus
+📚 Currently, I'm diving deep into Core Java to build a strong foundation in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+🔍 Exploring Java's fundamentals, including variables, data types, loops, and functions.
+
+## Projects
+🚀 I'm excited to start working on Java projects that showcase my skills and creativity.
+
+## Get in Touch
+📫 You can reach me through [email](mohamedaljathn@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-aljath-24378b250).
+
+## Fun Fact
+🎉 Fun fact: I enjoy solving puzzles and brain teasers in my free time.
+
+Let's connect, learn, and code together! 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
