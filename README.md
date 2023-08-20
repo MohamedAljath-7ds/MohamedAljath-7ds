@@ -13,7 +13,7 @@
 🚀 I'm excited to start working on Java projects that showcase my skills and creativity.
 
 ## Get in Touch
-📫 You can reach me through [email](mohamedaljathn@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-aljath-24378b250).
+📫 You can reach me through mohamedaljathn@gmail.com or connect with me https://www.linkedin.com/in/mohamed-aljath-24378b250
 
 ## Fun Fact
 🎉 Fun fact: I enjoy solving puzzles and brain teasers in my free time.
