@@ -20,6 +20,7 @@
 
 Let's connect, learn, and code together! 🚀
 
+![Skills](../../../Downloads/java.jpg)
 
 
 
