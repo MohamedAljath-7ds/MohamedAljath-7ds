@@ -20,7 +20,8 @@
 
 Let's connect, learn, and code together! 🚀
 
-![Skills](../../../Downloads/java.jpg)
+##Programming language
+![java-1](https://github.com/MohamedAljath-7ds/MohamedAljath-7ds/assets/114936594/7e9162fa-3262-4f29-b325-0f8d927ef22b)
 
 
 
