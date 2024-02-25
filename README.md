@@ -13,7 +13,7 @@
 
 # 💫 About Me:
 
-Hello, World! 👋<br>About Me<br>👨‍🎓 I'm a Computer Science Engineering student passionate about coding and learning new technologies.<br><br>Current Focus<br>📚 Currently, I'm diving deep into Core Java to build a strong foundation in programming.<br><br>What I'm Learning<br>🔍 Exploring Java's fundamentals, including variables, data types, loops, and functions.<br><br>Projects<br>🚀 I'm excited to start working on Java projects that showcase my skills and creativity.<br><br>Get in Touch<br>📫 You can reach me through mohamedaljathn@gmail.com or connect with me https://www.linkedin.com/in/mohamed-aljath-24378b250<br><br>Fun Fact<br>🎉 Fun fact: I enjoy solving puzzles and brain teasers in my free time.<br><br>Let's connect, learn, and code together! 
+Hello, World! 👋<br><br>👨‍🎓 I'm a Computer Science Engineering student passionate about coding and learning new technologies.<br><br>Current Focus<br>📚 Currently, I'm diving deep into Core Java to build a strong foundation in programming.<br><br>What I'm Learning<br>🔍 Exploring Java's fundamentals, including variables, data types, loops, and functions.<br><br>Projects<br>🚀 I'm excited to start working on Java projects that showcase my skills and creativity.<br><br>Get in Touch<br>📫 You can reach me through mohamedaljathn@gmail.com or connect with me https://www.linkedin.com/in/mohamed-aljath-24378b250<br><br>Fun Fact<br>🎉 Fun fact: I enjoy solving puzzles and brain teasers in my free time.<br><br>Let's connect, learn, and code together! 
 
 
 ## 🌐 Socials:
